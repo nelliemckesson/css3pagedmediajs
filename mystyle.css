@@ -1,0 +1,7 @@
+.test {
+  border: 1px solid black;
+}
+
+@page {
+  size: 5in 8in;
+}
